@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Chef" ALTER COLUMN "phone" DROP NOT NULL;
